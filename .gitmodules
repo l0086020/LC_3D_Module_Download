@@ -1,3 +1,6 @@
 [submodule "Source"]
 	path = Source
 	url = https://github.com/kulya97/warm_3dmodule.git
+[submodule "lceda_step_downloader"]
+	path = lceda_step_downloader
+	url = https://github.com/seishinkouki/lceda_step_downloader.git

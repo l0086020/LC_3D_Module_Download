@@ -8,3 +8,6 @@
 ## 参考文献
 - 脚本来源：[kulya97](https://github.com/kulya97/warm_3dmodule.git)
 - 修改后的：[main.py](https://github.com/l0086020/LC_3D_Module_Download/blob/master/main.py)
+
+## 网友分享
+- [lceda_step_downloader](https://github.com/seishinkouki/lceda_step_downloader.git) 也是一个非常不错的模型下载器
